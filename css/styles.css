@@ -1,0 +1,91 @@
+@font-face {
+    font-family: seleccion;
+    src: url(../assets/fuenteargentina.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: #80C0DA !important;
+}
+.navbar-brand {
+    font-family: seleccion !important}
+
+
+.hincha1{
+    background-image: url(../assets/img/hinchada1.jpeg);
+background-position: center;
+background-size: cover;
+ 
+height: 600px;
+}
+
+.hincha2{background-image: url(../assets/img/hinchada2.jpeg);
+background-position: center;
+background-size: cover; 
+height: 600px;}
+
+
+.hincha3{background-image: url(../assets/img/hinchada3.webp);
+background-position: center;
+background-size: cover; 
+height: 600px;
+}
+
+h2{
+    font-family: seleccion;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+#parrafo-home{
+    text-align: center;
+margin-top: 10px;
+margin-bottom: 38
+px;}
+.carousel-caption{
+    background-color: #80c1da3f;
+}
+
+.carousel.inner{margin-bottom: 30px;}
+h3{
+    font-family: seleccion !important;
+    color: black;
+    
+    
+    
+}
+
+.img1{
+    background-image: url(../assets/img/c1990b85-d36a-4cd0-9796-8d5b70884b17_16-9-discover-aspect-ratio_default_0.jpg);
+    width: 1fr;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+.img2{
+    background-image: url(../assets/img/argentina-campeon-finalissima-foto-prensa-copa-america-1200x900.jpg);
+    width: 1fr;
+    height: 500px;
+    background-size: cover;
+    background-position:bottom;
+}
+
+.img3{
+    background-image: url(../assets/img/OAMAYC4IP5HSPKBA2VCRGUETNE.webp);
+    width: 1fr;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+footer p{text-align: center;
+background-color: #FDC232;
+margin-top: 20px;}
+
+.parrafo-titulos{text-align: center;}
